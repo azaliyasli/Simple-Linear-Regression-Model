@@ -41,6 +41,9 @@ The goal is to predict the salary of a person based on their experience using a 
 4. **Visualization**
    - Plot the **training set** and regression line
    - Plot the **validation set** using the same regression line
+     
+5.**Evaluation**
+   -Evaluate the performance of model with R-Squared
 
 ---
 
